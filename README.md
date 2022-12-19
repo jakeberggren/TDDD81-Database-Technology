@@ -1,6 +1,6 @@
 # 🐬 TDDD81 - Database technology
 
-Repository for the course TDDD81 - Database technology at Linkoping University. Attended Spring of 2022. The repo includes laboration 4 - Brian Air, which is a larger project written in SQL, with the goal of managing the fictional airline Brian Air.
+Repository for the course TDDD81 - Database technology at Linkoping University. Attended Spring of 2022. The repo includes laboration 4 - Brian Air, which is a larger project written in SQL, with the goal of implementing a relational database, managing the fictional airline Brian Air. The project is written in SQL using MySQL Workbench.
 
 ---
 
